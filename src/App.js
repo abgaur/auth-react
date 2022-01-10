@@ -6,10 +6,10 @@ function getAuth() {
 
   const data =  {
   grant_type:'authorization_code',
-    client_id:'7Aub1XP8gKBvfnQjTfGhLWj6',
-    client_secret:'3WEyMZgmtROna0Cag1Aokj0Amek28gaSpUlsNUmR8QhUrHsR',
-    redirect_uri:'https://www.oauth.com/playground/authorization-code.html',
-    code:'Nl4I5GZa6u07BUCdV-98tLyLrn82Viv4eJ7GNBkb81w5x-5r',
+    client_id:'',
+    client_secret:'',
+    redirect_uri:'',
+    code:'',
   };
 
 
